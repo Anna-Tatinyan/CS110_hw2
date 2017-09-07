@@ -1,0 +1,60 @@
+h1 {
+  color: hsl(0, 100%, 40%);
+  font-family: cursive, serif;
+  font-size: 500%;
+  line-height: 1em;
+  word-spacing: 5px;
+  letter-spacing: 2px;
+  margin: 0px auto;
+  padding: 3px;
+  font-weight: bold;
+  position: relative;
+  text-align: center;
+  top: 20%;
+  text-transform: uppercase;
+    
+}
+
+.image {
+  height: 100px;
+  width: 300px;
+  display: block;
+  margin: auto;
+  
+  
+}
+
+ p {
+ 
+  color: rgb(48, 47, 151);
+  line-height: 32px;
+  font-family: 'Raleway', sans-serif;
+  font-size: 40px;
+  font-weight: 100;
+  font-weight: bold;
+  margin:10px;
+  padding:10px;
+}
+
+ul {
+  margin: auto;
+  padding: 0;
+  width: 50%;
+  color: #30bbfc;
+  margin: auto;
+  padding: 2x;
+  font-size: 30px;
+  font-weight: bold;
+}
+
+li {
+  border-bottom: 1px solid #E4BB97;
+  list-style: none;
+  margin: 12px;
+  padding-top: 30px;
+  padding-bottom: 10px;
+  color: #30bbfc;
+  list-style-type: square;
+  font-size: 30px;
+  font-style: italic;
+}
