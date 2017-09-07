@@ -9,7 +9,7 @@ const InspirationTxt = "be happy";
 console.log(InspirationTxt);
 const mood = "100%";
 console.log("mood");
-console.log((true&&false)||(!!!true));
+console.log((true&&false)||(!!true));
 
 const num1=56;
 const num2=63;
